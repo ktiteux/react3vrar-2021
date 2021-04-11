@@ -1,0 +1,13 @@
+{
+  "name": "TeacherNative",
+  "displayName": "projetapp",
+  "description": "Projet 3VRAR - React Native",
+  "expo": {
+    "name": "teacherNative",
+    "slug": "teacherNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
